@@ -1,3 +1,6 @@
 [submodule "salt"]
 	path = salt
 	url = https://github.com/stefanius/saltbase
+[submodule "saltbase"]
+	path = saltbase
+	url = https://github.com/stefanius/saltbase
