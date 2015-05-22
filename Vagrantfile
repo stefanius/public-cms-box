@@ -55,7 +55,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
                 "user" => "mysql",
                 "mysqld" => {
                     "bind-address" => "127.0.0.1",
-                    "port" => "3306"
+                    "port" => "3309"
                 }
             }
           }
