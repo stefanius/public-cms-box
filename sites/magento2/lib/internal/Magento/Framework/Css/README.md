@@ -1,1 +1,0 @@
-CSS library contains common infrastructure to work with style sheets.
