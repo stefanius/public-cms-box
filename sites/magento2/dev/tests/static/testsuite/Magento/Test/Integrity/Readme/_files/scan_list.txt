@@ -1,3 +1,0 @@
-app/code/Magento/*
-lib/internal/Magento/*/*
-lib/internal/Magento/*
